@@ -23,5 +23,6 @@
     "UIKit",
     "SystemConfiguration"
   ],
-  "vendored_frameworks": "Frameworks/*.framework"
+  "vendored_frameworks": "Frameworks/*.framework",
+  "source_files": "Sources/*.{h,m,swift}"
 }
